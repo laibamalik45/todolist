@@ -1,0 +1,68 @@
+h1{
+  background-color: white;
+}
+body{
+  background-image: linear-gradient(to right ,black,darkblue);
+}
+
+
+
+button{
+     margin: 15px;
+    background-color: #2962CD;
+    /* height: 0px;
+    width: 100px; */
+    padding: 15px;
+    border-radius: 25px;
+    border-color:  #2962CD;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+    box-shadow: 0px 3px 16px black;
+ 
+}
+button:hover{
+    
+    background-color: white;
+    
+}
+
+input{
+    
+    background-color: #2962CD;
+    /* height: 0px;
+    width: 100px; */
+    padding: 15px;
+    border-radius: 25px;
+    border-color:  #2962CD;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+    box-shadow: 0px 3px 16px black;
+ 
+}
+input:hover{
+    
+    background-color: white;
+  } 
+
+
+
+.container{
+    background-color: black;
+    width: 50%;
+    height: 500px;
+    position: relative;
+    border-radius: 10px;
+    left: 25%;
+    box-shadow: 0px 5px 11px white;
+    
+
+  }
+  li{
+    color: white;
+    
+  }
+  ol{
+    
+  }
